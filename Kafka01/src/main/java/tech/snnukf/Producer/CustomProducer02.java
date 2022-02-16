@@ -1,4 +1,4 @@
-package tech.snnukf;
+package tech.snnukf.Producer;
 
 import org.apache.kafka.clients.producer.*;
 import java.util.Properties;
@@ -9,7 +9,7 @@ import java.util.concurrent.ExecutionException;
 /**
  * @author simple.jbx
  * @ClassName CustomProducer
- * @description 不带回调函数的API
+ * @description 带回调函数的API
  * @email jb.xue@qq.com
  * @github https://github.com/simple-jbx
  * @date 2022/02/15/ 15:20

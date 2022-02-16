@@ -1,4 +1,4 @@
-package tech.snnukf;
+package tech.snnukf.Producer;
 
 import org.apache.kafka.clients.producer.*;
 import java.util.Properties;
